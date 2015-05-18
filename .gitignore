@@ -17,3 +17,6 @@
 public/uploads
 temp
 logs
+public/uploads
+tmp
+logs
